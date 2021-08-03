@@ -1,0 +1,17 @@
+{
+  "name": "anshika",
+  "version": "1.0.0",
+  "main": "nav.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "noor",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
